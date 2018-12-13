@@ -78,7 +78,7 @@ public class Encryptor
     public static boolean fromSHA1(String text, String sha1)
     {
         /**
-         * O algorítmo SHA1 igualmente é unidirecional,
+         * O algorítmo SHA1 é igualmente unidirecional,
          * sendo necessário comparar o texto com a hash
          * para verificar se são correspondentes
          */
